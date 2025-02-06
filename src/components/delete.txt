@@ -1,8 +1,0 @@
-DElete from formula_per_section where section_id = 'S159220';
-DElete from question where section_id = 'S159220';
-
-DElete from section where section_id = 'S159220';
-DElete from instrument where instrument_id = 'I315620';
-
-
-20%  0.02
