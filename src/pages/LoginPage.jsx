@@ -74,7 +74,7 @@ const LoginPage = () => {
                                 Center for Sustainable Development Office
                             </h1>
                             <h3 className="text-xl">
-                                Batangas State University - TNEUUU
+                                Batangas State University - TNEU
                             </h3>
                         </div>
                         <div className="form__group flex flex-col">
